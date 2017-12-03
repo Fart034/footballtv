@@ -26,5 +26,15 @@ namespace Football
         {
             this.InitializeComponent();
         }
+
+        private void WebView_LoadCompleted(object sender, NavigationEventArgs e)
+        {
+
+        }
+
+        private void WebView_LoadCompleted_1(object sender, NavigationEventArgs e)
+        {
+
+        }
     }
 }
